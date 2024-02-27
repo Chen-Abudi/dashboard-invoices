@@ -1,7 +1,5 @@
 # dashboard-invoices
 
-**Developed by** **`Grace Chen Abudi`** 👩🏽‍💻
-
 ## 📣 Overview:
 
 - Intro
@@ -10,12 +8,18 @@
 
 ## 🔎 Intro:
 
-This is a dynamic full-stack app centered around the creation of a dashboard. This meticulously crafted dashboard display and manage a collection of invoices, showcasing the capabilities and versatility of Next.js.
+This is a dynamic full-stack app centered around the creation of a dashboard. This meticulously crafted dashboard display and manage a collection of invoices, showcasing the capabilities and versatility of Next.js. This is a practice project in Next.js.
 
 ## 🧰 🛠️ Tech Stack & Techniques:
 
 - Next.js
 - JavaScript
-- CSS3
+- TailwindCSS
 - Responsive Layout
 - Vercel
+
+## Next.js App Router Course - Starter
+
+This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+
+For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
