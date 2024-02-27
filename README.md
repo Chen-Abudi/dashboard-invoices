@@ -3,20 +3,25 @@
 ## 📣 Overview:
 
 - Intro
-- Tech Stack & Techniques
+- Tech Stack
+- Techniques & Tools
 - How to Get Started
 
 ## 🔎 Intro:
 
 This is a dynamic full-stack app centered around the creation of a dashboard. This meticulously crafted dashboard display and manage a collection of invoices, showcasing the capabilities and versatility of Next.js. This is a practice project in Next.js.
 
-## 🧰 🛠️ Tech Stack & Techniques:
+## 🧰 Tech Stack: 
 
 - Next.js
 - JavaScript
 - TailwindCSS
 - Responsive Layout
 - Vercel
+
+## 🛠️ Techniques & Tools:
+
+- **```clsx:```** A tiny utility for constructing className strings conditionally.
 
 ## Next.js App Router Course - Starter
 
