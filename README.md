@@ -14,6 +14,7 @@ This is a dynamic full-stack app centered around the creation of a dashboard. Th
 ## 🧰 Tech Stack:
 
 - Next.js
+- TypeScript
 - JavaScript
 - TailwindCSS
 - Responsive Layout
