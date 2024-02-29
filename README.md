@@ -26,7 +26,7 @@ This is a dynamic full-stack app centered around the creation of a dashboard. Th
 
 # ✨ Live Project:
 
-- `Visit the App` [&#128073;&#127997; **HERE !**](https://dashboard-invoices-chen-abudi.vercel.app/)
+- `Visit the App` [&#128073;&#127997; **HERE !**](https://dashboard-invoices-zeta.vercel.app/)
 
 ## 🛠️ Techniques & Tools:
 
