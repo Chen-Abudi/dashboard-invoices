@@ -22,16 +22,16 @@ This is a dynamic full-stack app centered around the creation of a dashboard. Th
 - Vercel
 - PostgresSQL
 
+## 🛠️ Techniques & Tools:
+
+- **`clsx:`** A tiny utility for constructing className strings conditionally.
+- Hooks - usePathname
+
 ---
 
 # ✨ Live Project:
 
 - `Visit the App` [&#128073;&#127997; **HERE !**](https://dashboard-invoices-zeta.vercel.app/)
-
-## 🛠️ Techniques & Tools:
-
-- **`clsx:`** A tiny utility for constructing className strings conditionally.
-- Hooks - usePathname
 
 ## Next.js App Router Course - Starter
 
