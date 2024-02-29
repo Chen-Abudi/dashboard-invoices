@@ -33,6 +33,8 @@ This is a dynamic full-stack app centered around the creation of a dashboard. Th
 
 - `Visit the App` [&#128073;&#127997; **HERE !**](https://dashboard-invoices-zeta.vercel.app/)
 
+---
+
 ## Next.js App Router Course - Starter
 
 This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
