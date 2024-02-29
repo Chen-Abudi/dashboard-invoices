@@ -6,6 +6,7 @@
 - Tech Stack
 - Techniques & Tools
 - How to Get Started
+- Live Project
 
 ## 🔎 Intro:
 
@@ -19,6 +20,13 @@ This is a dynamic full-stack app centered around the creation of a dashboard. Th
 - TailwindCSS
 - Responsive Layout
 - Vercel
+- PostgresSQL
+
+---
+
+# ✨ Live Project:
+
+- `Visit the App` [&#128073;&#127997; **HERE !**](https://dashboard-invoices-chen-abudi.vercel.app/)
 
 ## 🛠️ Techniques & Tools:
 
