@@ -20,13 +20,14 @@ This is a dynamic full-stack app centered around the creation of a dashboard. Th
 - TailwindCSS
 - Responsive Layout
 - Vercel
-- PostgresSQL
+- PostgresSQL Database
 
 ## 🛠️ Techniques & Tools:
 
-- **`clsx:`** A tiny utility for constructing className strings conditionally.
-- Hooks - usePathname
+- **`clsx`**: A tiny utility for constructing className strings conditionally.
+- **`Hooks`**: usePathname
 - **`Vercel Postgres`** is a serverless SQL database designed to integrate with Vercel Functions and your frontend framework.
+- **`seed scripts`**: Contains the instructions for creating and seeding the **invoices**, **customers**, **user**, **revenue** tables.
 
 ---
 
