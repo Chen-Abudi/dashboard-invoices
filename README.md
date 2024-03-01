@@ -26,6 +26,7 @@ This is a dynamic full-stack app centered around the creation of a dashboard. Th
 
 - **`clsx:`** A tiny utility for constructing className strings conditionally.
 - Hooks - usePathname
+- **`Vercel Postgres`** is a serverless SQL database designed to integrate with Vercel Functions and your frontend framework.
 
 ---
 
