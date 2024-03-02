@@ -1,5 +1,7 @@
 # dashboard-invoices
 
+**Developed by** **`Grace Chen Abudi`** 👩🏽‍💻
+
 ## 📣 Overview:
 
 - Intro
@@ -30,7 +32,7 @@ This is a dynamic full-stack app centered around the creation of a dashboard. Th
 - **`Vercel Postgres`** is a serverless SQL database designed to integrate with Vercel Functions and your frontend framework.
 - **`seed scripts`**: Contains the instructions for creating and seeding the **invoices**, **customers**, **user**, and the **revenue** tables.
 - **`Server Components`**: Server Components facilitate asynchronous tasks with promises, enabling streamlined async/await syntax. They execute server-side, optimizing data fetches and logic, allowing direct database querying without an extra API layer.
-- **`Request Waterfalls`**: A "waterfall" denotes a series of network requests reliant on prior completions. While useful for conditional dependencies, it can inadvertently impede performance in unintentional instances, emphasizing the need for careful consideration in system design.
+- **`Request Waterfalls`**: A **"waterfall"** denotes a series of network requests reliant on prior completions. While useful for conditional dependencies, it can inadvertently impede performance in unintentional instances, emphasizing the need for careful consideration in system design.
 - **`Parallel Data Fetching`**: A common way to avoid waterfalls is to initiate all data requests at the same time - in parallel. In JavaScript, you can use **"Promise.all()"** or **"Promise.allSettled()"** for performance gains. This native pattern is versatile but consider potential delays if one request lags behind others.
 
 ---
