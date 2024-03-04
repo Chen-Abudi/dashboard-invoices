@@ -31,7 +31,7 @@ This is a dynamic full-stack app centered around the creation of a dashboard. Th
 - Responsive Layout
 - Vercel
 - Relational Database - PostgreSQL
-- SQL Queries
+- SQL + SQL Queries
 
 ## 🛠️ Techniques and Tools:
 
