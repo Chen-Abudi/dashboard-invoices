@@ -10,20 +10,13 @@
   - [🧰 Tech Stack:](#-tech-stack)
   - [🛠️ Techniques and Tools:](#️-techniques-and-tools)
   - [🏗️ Architecture Overview:](#️-architecture-overview)
-    - [Key Components Include:](#key-components-include)
-    - [Interactions:](#interactions)
-    - [Inclusion Summary:](#inclusion-summary)
+    - [🗝️ Key Components Include:](#️-key-components-include)
+    - [🔄 Interactions:](#-interactions)
+    - [📚 Inclusion Summary:](#-inclusion-summary)
 - [✨ How to Get Started:](#-how-to-get-started)
 - [🚀 Live Project:](#-live-project)
 
 ---
-
-<!-- - [Intro](#🔎-intro)
-- [Tech Stack](#🧰-tech-stack)
-- [Techniques and Tools](#🛠️-techniques-and-tools)
-- [Architecture Overview](#🏗️-architecture-overview)
-- How to Get Started
-- [Live Project](#✨-live-project) -->
 
 ## 🔎 Intro:
 
@@ -102,7 +95,7 @@ classDiagram
 
 ```
 
-### Key Components Include:
+### 🗝️ Key Components Include:
 
 - **_<ins>Client Class:</ins>_** Represents the client-side application responsible for making HTTP requests and interacting with the user interface.
 - **_<ins>Server Class:</ins>_** The server-side component, handling HTTP requests, fetching data using **Server Components** and **SQL**, parallelizing data fetching, implementing streaming, and moving data fetching logic to components.
@@ -111,7 +104,7 @@ classDiagram
 - **_<ins>Components Class:</ins>_** Handles data fetching on the server, contributing to partial prerendering.
 - **_<ins>UI Class:</ins>_** Responsible for displaying data to the user.
 
-### Interactions:
+### 🔄 Interactions:
 
 1. **<ins>Client to Server:</ins>** Initiates HTTP requests triggering server-side operations.
 2. **<ins>Server to Database:</ins>** Execute **SQL queries** for targeted data retrieval.
@@ -121,7 +114,7 @@ classDiagram
 6. **<ins>Server to Components:</ins>** Distributes data to specific components.
 7. **<ins>Server to UI:</ins>** Employs streaming to enhance user interaction, displaying data progressively.
 
-### Inclusion Summary:
+### 📚 Inclusion Summary:
 
 This architecture seamlessly integrates client and server-side components, optimizing data flow.
 
