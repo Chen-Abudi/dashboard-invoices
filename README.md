@@ -35,6 +35,7 @@ This is a dynamic full-stack app centered around the creation of a dashboard. Th
 - **`Request Waterfalls`**: A **"waterfall"** denotes a series of network requests reliant on prior completions. While useful for conditional dependencies, it can inadvertently impede performance in unintentional instances, emphasizing the need for careful consideration in system design.
 - **`Parallel Data Fetching`**: A common way to avoid waterfalls is to initiate all data requests at the same time - in parallel. In JavaScript, you can use **"Promise.all()"** or **"Promise.allSettled()"** for performance gains. This native pattern is versatile but consider potential delays if one request lags behind others.
 - **`Dynamic Rendering`**: Dynamic rendering renders content on the server for each user at request time. Benefits include real-time data display, user-specific content, and access to request-time information. However, application speed is constrained by the slowest data fetch.
+- **`Streaming`**: Streaming is a data transfer technique that allows you to break down a route into smaller "chunks" and progressively stream them from the server to the client as they become ready.
 
 ---
 
