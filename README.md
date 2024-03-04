@@ -36,7 +36,7 @@ This is a dynamic full-stack app centered around the creation of a dashboard. Th
 ## 🛠️ Techniques and Tools:
 
 - **`clsx`**: A tiny utility for constructing className strings conditionally.
-- **`Hooks`**: usePathname
+- **`Next.js Hooks`**: usePathname, useSearchParams, useRouter.
 - **`Vercel Postgres`** is a serverless SQL database designed to integrate with Vercel Functions and your frontend framework.
 - **`seed scripts`**: Contains the instructions for creating and seeding the **invoices**, **customers**, **user**, and the **revenue** tables.
 - **`Server Components`**: Server Components facilitate asynchronous tasks with promises, enabling streamlined async/await syntax. They execute server-side, optimizing data fetches and logic, allowing direct database querying without an extra API layer.
@@ -44,6 +44,8 @@ This is a dynamic full-stack app centered around the creation of a dashboard. Th
 - **`Parallel Data Fetching`**: A common way to avoid waterfalls is to initiate all data requests at the same time - in parallel. In JavaScript, you can use **"Promise.all()"** or **"Promise.allSettled()"** for performance gains. This native pattern is versatile but consider potential delays if one request lags behind others.
 - **`Dynamic Rendering`**: Dynamic rendering renders the content on the server for each user at the request time. Benefits include real-time data display, user-specific content, and access to request-time information. However, application speed is constrained by the slowest data fetch.
 - **`Streaming`**: Streaming is a data transfer technique that allows you to break down a route into smaller "chunks" and progressively stream them from the server to the client as they become ready.
+- **`Debouncing (Best Practice)`**: **Debouncing** is a programming practice that limits the rate at which a function can fire. In this project, it's used for query the database when the user has stopped typing.
+- **`Pagination`**: **Pagination** allows users to navigate through the different pages to view all the invoices.
 
 ---
 
