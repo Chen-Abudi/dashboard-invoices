@@ -32,6 +32,7 @@ This is a dynamic full-stack app centered around the creation of a dashboard. Th
 - Vercel
 - Relational Database - PostgreSQL
 - SQL + SQL Queries
+- ZOD
 
 ## 🛠️ Techniques and Tools:
 
@@ -46,6 +47,7 @@ This is a dynamic full-stack app centered around the creation of a dashboard. Th
 - **`Streaming`**: Streaming is a data transfer technique that allows you to break down a route into smaller "chunks" and progressively stream them from the server to the client as they become ready.
 - **`Debouncing (Best Practice)`**: **Debouncing** is a programming practice that limits the rate at which a function can fire. In this project, it's used for query the database when the user has stopped typing.
 - **`Pagination`**: **Pagination** allows users to navigate through the different pages to view all the invoices.
+- **`Server Actions`**
 
 ---
 
