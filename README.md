@@ -38,7 +38,6 @@ This is a dynamic full-stack app centered around the creation of a dashboard. Th
 
 - **`clsx`**: A tiny utility for constructing className strings conditionally.
 - **`Next.js Hooks`**: usePathname, useSearchParams, useRouter.
-- **`Next.js APIs`**
 - **`Vercel Postgres`** is a serverless SQL database designed to integrate with Vercel Functions and your frontend framework.
 - **`seed scripts`**: Contains the instructions for creating and seeding the **invoices**, **customers**, **user**, and the **revenue** tables.
 - **`Server Components`**: Server Components facilitate asynchronous tasks with promises, enabling streamlined async/await syntax. They execute server-side, optimizing data fetches and logic, allowing direct database querying without an extra API layer.
@@ -49,6 +48,7 @@ This is a dynamic full-stack app centered around the creation of a dashboard. Th
 - **`Debouncing (Best Practice)`**: **Debouncing** is a programming practice that limits the rate at which a function can fire. In this project, it's used for query the database when the user has stopped typing.
 - **`Pagination`**: **Pagination** allows users to navigate through the different pages to view all the invoices.
 - **`Server Actions`**
+- - **`Next.js APIs`**: error, notFound function
 - **`Handling Errors`**
 
 ---
