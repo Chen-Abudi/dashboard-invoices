@@ -48,8 +48,7 @@ This is a dynamic full-stack app centered around the creation of a dashboard. Th
 - **`Debouncing (Best Practice)`**: **Debouncing** is a programming practice that limits the rate at which a function can fire. In this project, it's used for query the database when the user has stopped typing.
 - **`Pagination`**: **Pagination** allows users to navigate through the different pages to view all the invoices.
 - **`Server Actions`**
-- - **`Next.js APIs`**: error, notFound function
-- **`Handling Errors`**
+- **`Next.js APIs`**: error handling, notFound function
 
 ---
 
