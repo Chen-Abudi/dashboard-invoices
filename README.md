@@ -20,7 +20,7 @@
 
 ## 🔎 Intro:
 
-This is a dynamic full-stack app centered around the creation of a dashboard. This meticulously crafted dashboard displays and manages a collection of invoices, showcasing the capabilities and versatility of Next.js. This is a practice project in Next.js.
+This is a dynamic full-stack app centered around the creation of a dashboard. This meticulously crafted dashboard displays and manages a collection of invoices, showcasing the capabilities and versatility of Next.js. This is a practice project.
 
 ## 🧰 Tech Stack:
 
