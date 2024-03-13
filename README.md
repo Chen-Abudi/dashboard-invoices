@@ -50,6 +50,7 @@ This is a dynamic full-stack app centered around the creation of a dashboard. Th
 - **`Server Actions`**
 - **`Next.js APIs`**: error handling, notFound function
 - **`Next.js Auth`**: Authentication and Authorization
+- **`Metadata`**
 
 ---
 
