@@ -49,7 +49,7 @@ This is a dynamic full-stack app centered around the creation of a dashboard. Th
 - **`Pagination`**: **Pagination** allows users to navigate through the different pages to view all the invoices.
 - **`Server Actions`**
 - **`Next.js APIs`**: error handling, notFound function
-- **`Next.js Auth`**: Authorization and Authentication
+- **`Next.js Auth`**: Authentication and Authorization
 
 ---
 
