@@ -22,8 +22,6 @@ export default async function Page({
 
   return (
     <div className="flex flex-col">
-      {/* <h1 className="text-2xl font-bold">Customers</h1> */}
-
       <Suspense key={query} fallback={<CustomersTableSkeleton />}>
         <CustomersTable customers={customers} />
       </Suspense>
